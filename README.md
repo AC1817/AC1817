@@ -10,6 +10,7 @@ I'm a **Master's Student in Statistics and Data Science** who believes in applyi
 - **Tools & Platforms**: Git, GitHub, VS Code, Jupyter Notebooks
 
 ### 🔬 INTERESTS 
+- Computational Social Science
 - The intersection of Data and Society
 
 ### CONNECT WITH ME
